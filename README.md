@@ -25,4 +25,13 @@ Welcome to my GitHub profile! I'm a **Junior Back-End Developer** with a strong 
 - **[Vigo](https://github.com/ShayNotRook/Vigo):** a web application designed to offer a wide range of gaming products, including games, gift cards, keys, and more. This project is currently in the local development phase.
 
 
-![GitHub Snake](https://github.com/ShayNotRook/ShayNotRook/blob/output/github-contribution-grid-snake.svg)
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayNotRook&layout=compact&theme=radical)
+
+
+## 🌍 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/shayan-asgary-764974226)
+- [X/Twitter](https://x.com/Rooknotshay)
+- [Instagram](https://www.instagram.com/shayaanasgarian)
+
