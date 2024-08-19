@@ -25,4 +25,4 @@ Welcome to my GitHub profile! I'm a **Junior Back-End Developer** with a strong 
 - **[Vigo](https://github.com/ShayNotRook/Vigo):** a web application designed to offer a wide range of gaming products, including games, gift cards, keys, and more. This project is currently in the local development phase.
 
 
-![GitHub Snake](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/ShayNotRook/ShayNotRook/blob/output/github-contribution-grid-snake.svg)
