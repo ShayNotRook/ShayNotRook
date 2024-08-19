@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **Junior Back-End Developer** with a strong 
 - 🌱 I'm enhancing my programming skills by diving into Rust to explore its system-level capabilities, while also mastering React to create dynamic and responsive front-end applications.
 - 🎮 Besides coding, I'm a huge gaming enthusiast. I enjoy exploring new games, especially those with rich narratives and immersive worlds.
 - 💬 Ask me about **Django**, **REST APIs**, **JS** and **gaming technologies**—I'm always excited to share knowledge and collaborate on interesting projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shayan-asgary-764974226) or [Email](shayan.asgari1381@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shayan-asgary-764974226) or [shayan.asgari1381@gmail.com](mailto:shayan.asgari1381@gmail.com)
 - ⚡ Fun fact: I’m a huge fan of retro games and love collecting vintage consoles—I enjoy the nostalgia and simplicity of classic gameplay.
 
 
