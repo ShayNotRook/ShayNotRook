@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Junior Back-End Developer** with a strong passion for **Web**, **Django**, **gaming**, and diving into new technologies like **Rust**, **C**, and etc. I love building projects that blend my technical skills with my enthusiasm for the gaming industry.
 
-[![My Skills](https://skillicons.dev/icons?i=py,rust,django,mysql,postgres,html,css,bootstrap,js,ts,react,docker,bash,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,mysql,postgres,html,css,bootstrap,js,ts,react,docker,bash,windows)](https://skillicons.dev)
 
 ## 🚀 About Me
 
