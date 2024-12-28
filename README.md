@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Back-End Developer** with a strong passion
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[NobatBot](https://github.com/ShayNotRook/SalonScheduler)**, a gaming companion app that helps gamers track what they've played, discover new games, explore in-depth lore, and share their thoughts with the community.
+- 🔭 Currently working on **[NobatBot](https://github.com/ShayNotRook/SalonScheduler)**.
 - 🌱 Enhancing my programming skills by diving into Rust to explore its system-level capabilities, while also mastering React to create dynamic and responsive front-end applications.
 - 🎮 Besides coding, I'm a huge gaming enthusiast. I enjoy exploring new games, especially those with rich narratives and immersive worlds.
 - 💬 Ask me about **Django**, **REST APIs**, **Systems** and **gaming technologies**—I'm always excited to share knowledge and collaborate on interesting projects.
