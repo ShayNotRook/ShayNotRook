@@ -1,6 +1,6 @@
-## Hi there👋, I'm Shay!
+## Shay Here!
 
-Welcome to my GitHub profile! I'm a **Back-End Developer** with a strong passion for **Web**, **Django**, **gaming**, and diving into new technologies like **Rust**, **C**, and etc. I love building projects that blend my technical skills with my enthusiasm for the gaming industry.
+a **Back-End Developer** with a  passion for **Web**, **Django**, **gaming**, and diving into new technologies like **Rust**, **C**, and etc. I love building projects that blend my technical skills with my enthusiasm for the gaming industry.
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,mysql,postgres,html,css,bootstrap,js,ts,react,docker,bash,windows)](https://skillicons.dev)
 
