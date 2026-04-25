@@ -1,6 +1,6 @@
 ## Shay Here!
 
-a **Back-End Developer** with a  passion for **Web**, **Django**, **gaming**, building projects that blends my technical skills with my enthusiasm for the culture.
+a **Dev** with a  passion for **Web**, **Systems**, **Media**, and **Video Games**, building projects that blends my technical skills with my enthusiasm for the culture.
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,mysql,postgres,html,css,bootstrap,js,ts,react,docker,bash,windows)](https://skillicons.dev)
 
