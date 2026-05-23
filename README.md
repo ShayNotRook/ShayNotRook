@@ -1,11 +1,11 @@
 ## Shay Here!
 
-a **Dev** with a  passion for **Web**, **Systems**, **Media**, and **Video Games**, building projects that blends my technical skills with my enthusiasm for the culture.
+**Dev** with a  passion for **Web**, **Systems**, **Media**, and **Video Games**, building projects that blends my technical skills with my enthusiasm for the culture.
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,mysql,postgres,html,css,bootstrap,js,ts,react,docker,bash,windows)](https://skillicons.dev)
 
  
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Languages:** Python, JavaScript, C++, C#
 - **Frameworks:** Django, React
@@ -14,12 +14,7 @@ a **Dev** with a  passion for **Web**, **Systems**, **Media**, and **Video Games
 
 
 
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayNotRook&layout=compact&theme=radical)
-
-
-## 🌍 Connect with Me
+## Connections
 - [LinkedIn](https://www.linkedin.com/in/shayan-asgary-764974226)
 - [X/Twitter](https://x.com/Rooknotshay)
 - [Instagram](https://www.instagram.com/shayaanasgarian)
