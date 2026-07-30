@@ -7,10 +7,10 @@
  
 ## Technologies & Tools
 
-- **Languages:** Python, JavaScript, C++, C#
-- **Frameworks:** Django, React
+- **Languages:** Python, JavaScript, TypeScript, C, C++, C#
+- **Frameworks:** Django, React, .NET
 - **Tools:** Git, Docker, VS Code, Linux
-- **Databases:** PostgreSQL, SQLite, MongoDB
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 
 
 
